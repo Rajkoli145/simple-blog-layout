@@ -17,17 +17,11 @@ This project displays a blog with multiple posts and a sidebar with "About Me," 
 
 ---
 
-## 📁 Folder Structure
-simple-blog-layout/
-├── index.html
-├── style.css
----
-
 ## 🚀 Live Demo
 
 🔗 [View Deployed Site](https://rajkoli145.github.io/simple-blog-layout/)
 
-> Make sure GitHub Pages is enabled in your repository settings under **Settings > Pages**.
+>  Make sure GitHub Pages is enabled in your repository settings under **Settings > Pages**.
 
 ---
 
@@ -36,12 +30,15 @@ simple-blog-layout/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Rajkoli145/simple-blog-layout.git
-
+  
 2.	Open the folder:
-```bash
+    ```bash
     cd simple-blog-layout
-
 3.	Open index.html in your browser.
+
+
+
+
 
 📄 License
 
